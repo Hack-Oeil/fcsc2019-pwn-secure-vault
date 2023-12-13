@@ -14,3 +14,21 @@ Origine : [Secure Vault](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-se
 
 ## Tentez 
 > nc securevault.cyrhades.com:4000
+
+
+
+-----------
+
+## Installation manuel
+Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
+Mais voici comment installer ce CTF manuellement :
+
+> git clone https://github.com/Hack-Oeil/fcsc2019-pwn-secure-vault.git
+
+> cd fcsc2019-pwn-secure-vault
+
+
+-----------
+
+## Sur le site officiel hackropole.fr
+> https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-secure-vault/
