@@ -9,7 +9,7 @@ Origine : [Secure Vault](https://hackropole.fr/fr/challenges/pwn/fcsc2019-pwn-se
 
 
 ## Connectez vous en WEBSSH
-> http://loaclhost
+> http://localhost
 
 #### Tentez 
 > nc securevault.cyrhades.com:4000
